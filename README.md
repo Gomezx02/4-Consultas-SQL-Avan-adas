@@ -70,7 +70,7 @@ Projeto_SQL/
 Repositório do projeto disponível em:
 
 ```text id="1mdc4z"
-[INSERIR LINK DO GITHUB AQUI]
+https://github.com/Gomezx02/4-Consultas-SQL-Avan-adas
 ```
 
 ---
