@@ -1,29 +1,80 @@
 # 4-Consultas-SQL-Avançadas
 
+## 📌 Sobre o Projeto
 
-Projeto: Consultas SQL Avançadas
-
-Este projeto foi desenvolvido com o objetivo de demonstrar o uso de consultas SQL avançadas em bancos de dados relacionais.
-
-Técnicas utilizadas
-JOIN
-GROUP BY
-HAVING
-Subqueries
-CTEs
-Objetivo
-
-Melhorar a análise e recuperação de dados em sistemas de banco de dados.
-
-Integrantes
-Keven Lima Da Lilva
-Pedro Henrique Miranda Xavier
-Rafael Fernandes Da Silva Rocha
+Este projeto foi desenvolvido com o objetivo de demonstrar o uso de consultas SQL avançadas em bancos de dados relacionais, aplicando técnicas utilizadas na manipulação, análise e recuperação eficiente de informações.
 
 ---
 
-Depois, no artigo ou no envio, vocês podem colocar:
+## 🎯 Objetivo
 
-> Repositório do projeto disponível em: [link do GitHub]
+Melhorar a análise e recuperação de dados em sistemas de banco de dados por meio da utilização de consultas SQL avançadas.
 
-Isso deixa o trabalho mais profissional e mostra implementação prática.
+---
+
+## 🛠️ Técnicas Utilizadas
+
+* JOIN
+* GROUP BY
+* HAVING
+* Subqueries
+* CTEs
+* Funções agregadas
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+* SQL
+* MySQL / PostgreSQL
+* GitHub
+
+---
+
+## 📂 Estrutura do Projeto
+
+```text id="r4f0n2"
+Projeto_SQL/
+│
+├── banco.sql
+├── inserts.sql
+├── consultas.sql
+├── modelo_der.png
+└── README.md
+```
+
+---
+
+## 📖 Descrição dos Arquivos
+
+| Arquivo        | Função                        |
+| -------------- | ----------------------------- |
+| banco.sql      | Criação das tabelas do banco  |
+| inserts.sql    | Inserção de dados para testes |
+| consultas.sql  | Consultas SQL avançadas       |
+| modelo_der.png | Modelo DER do banco           |
+| README.md      | Documentação do projeto       |
+
+---
+
+## 👨‍💻 Integrantes
+
+* Keven Lima Da Silva
+* Pedro Henrique Miranda Xavier
+* Rafael Fernandes Da Silva Rocha
+
+---
+
+## 🔗 Repositório
+
+Repositório do projeto disponível em:
+
+```text id="1mdc4z"
+[INSERIR LINK DO GITHUB AQUI]
+```
+
+---
+
+## 📚 Finalidade Acadêmica
+
+Projeto desenvolvido para fins acadêmicos, com foco no aprendizado de consultas SQL avançadas e manipulação de bancos de dados relacionais.
