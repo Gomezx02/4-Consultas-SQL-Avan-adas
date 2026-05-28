@@ -16,9 +16,9 @@ Objetivo
 Melhorar a análise e recuperação de dados em sistemas de banco de dados.
 
 Integrantes
-Nome 1
-Nome 2
-Nome 3
+Keven Lima Da Lilva
+Pedro Henrique Miranda Xavier
+Rafael Fernandes Da Silva Rocha
 
 ---
 
