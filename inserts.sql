@@ -5,10 +5,10 @@
 
 INSERT INTO clientes (nome)
 VALUES
-    ('João'),
-    ('Maria'),
-    ('Carlos'),
-    ('Ana');
+    ('PythonFace'),
+    ('Boquira'),
+    ('MacLovin'),
+    ('Augusto');
 
 INSERT INTO pedidos (id_cliente, valor_total)
 VALUES
