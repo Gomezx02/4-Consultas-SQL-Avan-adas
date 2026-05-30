@@ -6,7 +6,7 @@
 INSERT INTO clientes (nome)
 VALUES
     ('PythonFace'),
-    ('Boquira'),
+    ('Rafael'),
     ('MacLovin'),
     ('Augusto');
 
